@@ -1,0 +1,1 @@
+# TCC-Prototipo-De-Sumarizador-De-Texto-Com-Uso-De-CNAPs
